@@ -287,7 +287,6 @@ Detailed Guides: Provide links to more comprehensive documentation or guides if 
 Example: “For detailed instructions and advanced features, refer to our User Guide.”
 7. Contact Information
 Support and Feedback: Include information on how users can get support or provide feedback. This ensures that users know where to go if they encounter issues or have questions.
-Example: “For support or feedback, contact us at support@example.com.”
 8. Licensing and Attribution
 Legal Information: Briefly mention the licensing terms and any relevant attribution information if applicable. This informs users of the legal aspects of using the product.
 Example: “This project is licensed under the MIT License. See the LICENSE file for details.”
